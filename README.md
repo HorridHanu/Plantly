@@ -32,6 +32,4 @@ Plantly is released under multiple licenses to provide flexibility:
 - The documentation is licensed under the ![CC BY 4.0 License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg) ([LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0)).
 - The plant data and images are subject to the ![CC BY-NC-SA 4.0 License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg) ([LICENSE-CC-BY-NC-SA-4.0](LICENSE-CC-BY-NC-SA-4.0)).
 
-Feel free to use, modify, and distribute the code, documentation, and plant-related content. We encourage collaboration and welcome your contributions to make Plantly even more amazing!
-
-🌿🚀
+Feel free to use, modify, and distribute the code, documentation, and plant-related content. We encourage collaboration and welcome your contributions to make Plantly even more amazing 🌿🚀
