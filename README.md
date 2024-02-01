@@ -22,6 +22,6 @@ Plantly is more than an app; it's a collaborative project driven by the passion 
 
 ## Let Your Green Journey Flourish! 🌿
 
-Explore the possibilities, contribute your expertise, and be part of the movement to create a more sustainable and joyful relationship with plants. Embrace the world of Plantly on [GitHub](https://github.com/HorridHanu/Plantly) and embark on a journey of nurturing and cultivating your green world.
+Explore the possibilities, contribute your expertise, and be part of the movement to create a more sustainable and joyful relationship with plants. Embrace the world of Plantly on [Follow project link](https://github.com/HorridHanu/Plantly) and embark on a journey of nurturing and cultivating your green world.
 
 🌿🚀
