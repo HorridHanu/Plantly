@@ -24,4 +24,14 @@ Plantly is more than an app; it's a collaborative project driven by the passion 
 
 Explore the possibilities, contribute your expertise, and be part of the movement to create a more sustainable and joyful relationship with plants. Embrace the world of Plantly on [Follow project link](https://github.com/HorridHanu/Plantly) and embark on a journey of nurturing and cultivating your green world.
 
+## Licenses 📝
+
+Plantly is released under multiple licenses to provide flexibility:
+
+- The app code is licensed under the [MIT License](LICENSE-MIT).
+- The documentation is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE-CC-BY-4.0).
+- The plant data and images are subject to the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE-CC-BY-NC-SA-4.0).
+
+Feel free to use, modify, and distribute the code, documentation, and plant-related content. We encourage collaboration and welcome your contributions to make Plantly even more amazing!
+
 🌿🚀
