@@ -28,9 +28,9 @@ Explore the possibilities, contribute your expertise, and be part of the movemen
 
 Plantly is released under multiple licenses to provide flexibility:
 
-- The app code is licensed under the [MIT License](LICENSE-MIT).
-- The documentation is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE-CC-BY-4.0).
-- The plant data and images are subject to the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE-CC-BY-NC-SA-4.0).
+- The app code is licensed under the ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg) ([LICENSE-MIT](LICENSE-MIT)).
+- The documentation is licensed under the ![CC BY 4.0 License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg) ([LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0)).
+- The plant data and images are subject to the ![CC BY-NC-SA 4.0 License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg) ([LICENSE-CC-BY-NC-SA-4.0](LICENSE-CC-BY-NC-SA-4.0)).
 
 Feel free to use, modify, and distribute the code, documentation, and plant-related content. We encourage collaboration and welcome your contributions to make Plantly even more amazing!
 
